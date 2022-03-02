@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulofbsouza
-- 👀 I’m interested in learn more about data science and programmation
-- 🌱 I’m currently learning pyton and data science practices
+- 👀 I’m interested in software test, data science and python programmation
+- 🌱 I’m currently learning about pyton and data science practices
 - 💞️ I’m looking to collaborate on data analysis studies
 - 📫 How to reach me paulofbsouza@gmail.com or +1(514)991-1485
 
